@@ -1,6 +1,7 @@
 # Simple tweet api project
 
-![Aubot backend implementation](https://github.com/user-attachments/assets/2cf471de-de10-489f-aa80-005f5ce8848b)
+
+![Aubot backend implementation (1)](https://github.com/user-attachments/assets/05c59510-0764-4895-8c2e-6a5ac34ee8ef)
 
 
 A Node.js and MongoDB-based backend project that provides RESTful APIs for managing Autobots, their posts, and related comments. This project implements paginated APIs with rate limiting and is designed to be easily extendable.
